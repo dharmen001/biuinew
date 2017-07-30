@@ -28,6 +28,20 @@ a. By reference variable
 b. By method
 c. By contructor
 
+Different Ways to creat an object.
+
+1.By new keyword
+2.By newinstance() method
+3.By clone() method
+4.By deserilization
+5.By factory method etc.
+
+Anonymous object:
+
+Anonymous means nameless.an object which has no refrence is known as anonymous object. it can be used at the time
+of object creation only.
+
+
 
 Instance variable: A variable is known as intance variable when its created inside the class but outside the
 method. instance variable doesn't get memory at compile time. it gets memory at run time when object(instance) is
@@ -36,5 +50,7 @@ created.That's why its known as instance variable.
 Methods is java: Its like function. Advantage of method are Code Reusability and Code Optimization.
 
 new keyword: its used to allocate memory at run time.all objects memory in heap memory area.
+
+
 
 
