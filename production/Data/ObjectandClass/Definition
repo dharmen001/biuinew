@@ -1,0 +1,72 @@
+Class: Class is the logical entity. Class is a template or blueprint from which objects are created.
+so object is the instance(result) of class. it can't be physical.
+
+A class in java contains:
+
+1. Fields
+2.methods
+3.constructors
+4.blocks
+5.nested class and interface
+
+
+Object : Object is the logical and physical entity. An entity that has state and behviour is known as object.
+like pen, chair etc.
+
+A object has three characterstics.
+
+1. State : represents data(value) of an object.
+2. Behaviour: represents the behaviour(functionality) of an object such as deposit, withdraw etc.
+3. identity: Object identity is typically implemented via a unique id.the value of the ID is not visible to
+the external user. but its used internally by jvm to identify each object uniquely.
+
+Example : Pen is an object, its name is reynolds, color is white etc.known as its state.it is used write, so writing is
+its behaviour.
+
+Three ways to initilize an object:
+a. By reference variable
+b. By method
+c. By contructor
+
+Different Ways to creat an object.
+
+1.By new keyword
+2.By newinstance() method
+3.By clone() method
+4.By deserilization
+5.By factory method etc.
+
+Anonymous object:
+
+Anonymous means nameless.an object which has no refrence is known as anonymous object. it can be used at the time
+of object creation only.
+
+
+
+Instance variable: A variable is known as intance variable when its created inside the class but outside the
+method. instance variable doesn't get memory at compile time. it gets memory at run time when object(instance) is
+created.That's why its known as instance variable.
+
+Methods is java: Its like function. Advantage of method are Code Reusability and Code Optimization.
+
+new keyword: its used to allocate memory at run time.all objects memory in heap memory area.
+
+
+
+Constructor: Constructor in java is a special type of method that is used to initilize the object.
+java constructior is invoked at the time of object creation.
+
+it constructos the values i.e provides data for the object that is why it is known as constructor.
+
+Rules for creating java constructor:
+
+1. Constructor must same as its class name
+2. Constructor must have no explicit return type
+
+Two types of constructor:
+1. Defualt Constructor(no-argument constructor):
+2. Parameterized Constructor
+
+
+
+
