@@ -53,4 +53,20 @@ new keyword: its used to allocate memory at run time.all objects memory in heap 
 
 
 
+Constructor: Constructor in java is a special type of method that is used to initilize the object.
+java constructior is invoked at the time of object creation.
+
+it constructos the values i.e provides data for the object that is why it is known as constructor.
+
+Rules for creating java constructor:
+
+1. Constructor must same as its class name
+2. Constructor must have no explicit return type
+
+Two types of constructor:
+1. Defualt Constructor(no-argument constructor)
+2. Parameterized Constructor
+
+
+
 
