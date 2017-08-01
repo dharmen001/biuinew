@@ -1,4 +1,4 @@
-package ObjectandClass.InitilizeObjectbyConstructor.DafaultConstructor;
+package ObjectandClass.InitilizeObjectbyConstructor.DafaultConstructor.DefaultConstructor;
 
 public class TestDefaultCDefaultV
 {

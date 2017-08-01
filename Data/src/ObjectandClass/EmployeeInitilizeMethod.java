@@ -13,6 +13,8 @@ public class EmployeeInitilizeMethod {
 
         e1.information();
         e2.information();
+
+
         e3.information();
     }
 

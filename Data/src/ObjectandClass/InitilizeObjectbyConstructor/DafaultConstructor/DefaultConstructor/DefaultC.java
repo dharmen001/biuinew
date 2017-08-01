@@ -1,4 +1,4 @@
-package ObjectandClass.InitilizeObjectbyConstructor.DafaultConstructor;
+package ObjectandClass.InitilizeObjectbyConstructor.DafaultConstructor.DefaultConstructor;
 
 //If there is no constructor in a class, compiler automatically created a default constructor
 

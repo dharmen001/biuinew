@@ -1,8 +1,6 @@
-package ObjectandClass.InitilizeObjectbyConstructor.DafaultConstructor;
+package ObjectandClass.InitilizeObjectbyConstructor.DafaultConstructor.DefaultConstructor;
 
 //Defines default Value on Default Contructor
-
-import ObjectandClass.Student;
 
 public class DefalutCDefaultV {
 
