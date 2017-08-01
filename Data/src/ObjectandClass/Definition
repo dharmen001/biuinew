@@ -64,7 +64,7 @@ Rules for creating java constructor:
 2. Constructor must have no explicit return type
 
 Two types of constructor:
-1. Defualt Constructor(no-argument constructor)
+1. Defualt Constructor(no-argument constructor):
 2. Parameterized Constructor
 
 
