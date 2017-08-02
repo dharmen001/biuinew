@@ -73,7 +73,7 @@ Java Constructor : Constructor is used to initialize the state of an object
 Java Method: Method is used to expose behaviour of an object
 
 Java Constructor: Constrcutor must not have return type
-Java Method : Method must have reqturn type.
+Java Method : Method must have return type.
 
 Jave Constructor: Constructor is invoked implicitly
 Java Method: Method is invoked explicitly
