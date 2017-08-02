@@ -67,6 +67,21 @@ Two types of constructor:
 1. Defualt Constructor(no-argument constructor):
 2. Parameterized Constructor
 
+Difference between constructor and method in java.
 
+Java Constructor : Constructor is used to initialize the state of an object
+Java Method: Method is used to expose behaviour of an object
+
+Java Constructor: Constrcutor must not have return type
+Java Method : Method must have reqturn type.
+
+Jave Constructor: Constructor is invoked implicitly
+Java Method: Method is invoked explicitly
+
+Java Constructor: The java compiler provides a default constructor if you don't have any constructor
+Java method: Method is not provided by compiler in any case
+
+Java constructor: Constructor name must be same as the class name
+Java Method: Method name may or may not be same as class name.
 
 
