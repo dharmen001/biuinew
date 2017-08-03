@@ -7,10 +7,10 @@ public class Student6 {
         //TestStudent6 s2 = new TestStudent6(24, "Gaurav");
         TestStudent6 s3 = new TestStudent6(s1);
         //TestStudent6 s4 = new TestStudent6(s2);
-s1.display();
-//s2.display();
-s3.display();
+        s3.display();
 //s4.display();
+        s1.display();
+//s2.display();
 
 
     }
