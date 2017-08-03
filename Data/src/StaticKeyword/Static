@@ -13,5 +13,15 @@ The static can be:
 
 Java static variable
 
-1. Any variable declare static, it is known as static.
-2.
+Any variable declare static, it is known as static.
+1. The static variable can be used to refer the common property of all object(that is not unique for each object) e.g. company
+name of employees, college name of students.
+
+2. The static variable gets memory only once in class area at the time of class loading.
+
+
+Advanatge of static variable is, it saves memory.
+
+
+
+
