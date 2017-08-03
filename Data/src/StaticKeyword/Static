@@ -1,0 +1,17 @@
+
+Java static keyword.
+
+The Static Keyword in java is used for memory management mainly. we can apply java static keyword with variable, methods, blocks and nested class.
+The static keyword belongs to the class than instance of the class.
+
+The static can be:
+1. Variable(also known as class variable)
+2. method(also known as class method)
+3. block
+4. nested class
+
+
+Java static variable
+
+1. Any variable declare static, it is known as static.
+2.
