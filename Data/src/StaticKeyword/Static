@@ -22,6 +22,18 @@ name of employees, college name of students.
 
 Advanatge of static variable is, it saves memory.
 
+Java Static Method:
+
+if you apply static keyword with any method, it is known as static method.
+
+a. A static method belongs to the class rather than object of a class.
+b. A static method can be invoked without the need for creating a instance of a class.
+c. static method can access static data member and can change the value of it.
+
+
+
+
+
 
 
 
