@@ -30,6 +30,20 @@ a. A static method belongs to the class rather than object of a class.
 b. A static method can be invoked without the need for creating a instance of a class.
 c. static method can access static data member and can change the value of it.
 
+1.You can not use non static method or data member in static method
+2.this and super can not be use with super.
+
+Why java main method is static?
+
+1. Beacuse object is not required to call static method if it were non-static method, jvm create object
+first then call main() method that will lead the problem of extra memory allocation.
+
+Java Static Block.
+
+1. Is used to initilize the static data member.
+2. it is excuted before main method at the time of classloading.
+
+
 
 
 
