@@ -3,4 +3,21 @@ behaviour of parent object.
 2. the idea behind inheritance is that you can create new classes that are built upon existing
 classes,when you inherit from an existing class, you can reuse methods and fields of parent class, and you can
 add new methods and fields also.
+3.Inheritance reprents the is-a relationship, also known as parent child relationship.
+
+why use inheritance in java.
+
+a. For method overriding(so runtime polymorphism can be achieved)
+b. for code reusability.
+
+
+Syntax of java inheritance.
+
+class subclass-name extends superclass-name
+
+{
+
+//methods and fields
+}
+
 
