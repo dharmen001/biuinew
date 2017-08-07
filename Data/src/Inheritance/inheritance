@@ -1,0 +1,6 @@
+1.inheritance in java is a mechanism in which one object acquires all the properties and
+behaviour of parent object.
+2. the idea behind inheritance is that you can create new classes that are built upon existing
+classes,when you inherit from an existing class, you can reuse methods and fields of parent class, and you can
+add new methods and fields also.
+
