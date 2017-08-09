@@ -20,4 +20,10 @@ class subclass-name extends superclass-name
 //methods and fields
 }
 
+The extends keyword indicates that you are making a new class that derives from an existing class.
+The meaning of "extends" is to increase the functionality.
+
+in the terminology of java, a class which is inherited is called parent class or super class and the new
+class is called child class or subclass.
+
 
