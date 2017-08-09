@@ -27,3 +27,9 @@ in the terminology of java, a class which is inherited is called parent class or
 class is called child class or subclass.
 
 
+Types of inheritance
+
+On the basis of java, there can be three types of inheritance in java: single, multilevel and hierarchical
+
+In java programming, multiple and hybrid inheritance is supported through interface only. Discuss later.
+
