@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.SingleInheritance;
 
 public class Programmer extends Employee{
     int bonus = 1000;
