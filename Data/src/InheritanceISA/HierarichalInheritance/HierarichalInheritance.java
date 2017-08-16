@@ -1,4 +1,4 @@
-package Inheritance.HierarichalInheritance;
+package InheritanceISA.HierarichalInheritance;
 
 public class HierarichalInheritance {
 

@@ -3,7 +3,7 @@ behaviour of parent object.
 2. the idea behind inheritance is that you can create new classes that are built upon existing
 classes,when you inherit from an existing class, you can reuse methods and fields of parent class, and you can
 add new methods and fields also.
-3.Inheritance reprents the is-a relationship, also known as parent child relationship.
+3.InheritanceISA reprents the is-a relationship, also known as parent child relationship.
 
 why use inheritance in java.
 
@@ -27,5 +27,19 @@ in the terminology of java, a class which is inherited is called parent class or
 class is called child class or subclass.
 
 Public and Protected can be accessible in child class however private is not accessible.
+
+
+Aggregation InheritanceISA.
+
+
+If a class have an entity refrence, it is known as aggregation. Aggregation represents HAS-A relationship.
+
+Consider a situtation, Employee object contains many information such as id,name, emailId etc. it contains one more object
+named address, which contains its own information such as, city, country, zipcode etc. as given below.
+
+
+Aggregation used for code reusablility.
+
+
 
 

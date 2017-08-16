@@ -1,4 +1,4 @@
-package Inheritance.MultilevelInheritance;
+package InheritanceISA.MultilevelInheritance;
 
 public class TestMultipleInheritance {
 

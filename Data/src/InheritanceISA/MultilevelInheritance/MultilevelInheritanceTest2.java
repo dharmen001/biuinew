@@ -1,4 +1,4 @@
-package Inheritance.MultilevelInheritance;
+package InheritanceISA.MultilevelInheritance;
 //This is for Herarical Class
 public class MultilevelInheritanceTest2 {
 
