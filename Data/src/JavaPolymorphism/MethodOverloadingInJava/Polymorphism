@@ -1,0 +1,62 @@
+If a class has multiple methods having same name but different in parameters, it is known as method
+Overloading.
+
+if we have to perform only one operation, having same name of the methods increases the readability of
+the programme.
+
+Suppose you have to perform a addition of the given numbers but there can be any number of arguments
+,if you write the method such as (int, int) for two parameters, and b(int,int,int) for three parameters
+then it may be difficult for you as well as other programmers to understand the behaviour of the methods
+beacuse its name differs.
+
+
+Advantage of method overloading it increases the readibility of the prnt ogramme.
+
+Different ways to overload a method in java.
+
+1.By changing number of arguments.
+2.By changing the data type.
+
+Note: In java Method Overloading is not possible by changing the return type of the method only.
+
+Can we Overload Java Main() Method?
+
+Yes, by method overloading. You can have any number of main methods in a class by method overloading.
+but jvm calls only main() method which recives string array as arguments only.
+
+
+Method Overloading and Type Promotion:
+
+Byte>>Short>>int>>long
+Char>>int>>float
+int>>float
+int>>double
+long>>float>>double
+float>>double
+
+One type is not de-promoted implicitly for example double cannot
+be depromoted to any type implicitly.
+
+
+Method Overriding in Java:
+
+If subclass (child class) has the same method as declared in the parent class, it is known as method overriding in java.
+
+In other words, If subclass provides the specific implementation of the method that has been provided by one of its parent class,
+it is known as method overriding.
+
+
+Usage of Java Method Overriding:
+
+Method Overriding is used to provide specific implementation of method that is already
+provided its super class.
+
+Method Overriding is used for runtime polymorphism.
+
+
+Rules of MethodOverriding:
+1. method must have same name as in the parent class
+2. method must have same parameter as in the parent class.
+3. must be IS-A relationship(Inheritance).
+
+
