@@ -60,3 +60,8 @@ Rules of MethodOverriding:
 3. must be IS-A relationship(Inheritance).
 
 
+Covariant Return Type:
+
+The convariant return type specifies that the return type may vary in the same direction as the subclass.
+it is possible to override method by changing the return type if subclas overrides any method whose return type
+is Non-Primtive but it changes its return type to subclass type.
