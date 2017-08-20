@@ -1,0 +1,26 @@
+Instance initializer block
+
+Instance Initializer block is used to initialize the instance data member.
+It run each time when object of the class is created.
+The initialization of the instance variable can be directly
+but there can be performed extra operations while initializing
+the instance variable in the instance initializer block.
+
+Why use instance initializer block?
+suppose i have to perform some operation while assigning value to instance data member e.g. a for loop
+to fill a complex array or error hanling etc.
+
+There are three places in java where you can perform operations.
+
+1. Method
+2. Constructor
+3. block
+
+Rules for instance initilizer block:
+
+1. Instance initilizer block is created when instance of the class is created.
+2. The instance initilizer block is invoked after the parent class constructor is invoked(i.e after
+super() constructor call).
+3. The instance initilizer block comes in the order in which they appear.
+
+
