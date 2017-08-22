@@ -1,0 +1,35 @@
+Polymorphism in java is a concept by which we can perform a single action by different ways.
+polymorphism is a derived from 2 geek words.
+
+poly and morphs. The word poly means many and morphs means forms. so polymorphism means many forms.
+
+there are two types of polymorphism in java: compile time polymorphism and run time polymorphism. we can
+perform polymorphism in java by method overloading and method overriding.
+
+
+if you overload static method in java, it is the example of compile time polymorphism. Here, we will
+focus on runtime polymorphism in java.
+
+Runtime polymorphism in java:
+
+Runtime polymorphism or Dynamic method dispatch is a process in which a call to an overriden method is resolved
+at runtime rather than compile time.
+
+in this process, an overriden method is called through the refrence variable of a superclass. The determination of the method
+to be called is based on the object being referred to by the refrence variable.
+
+upcasting:
+
+When refrence variable of parent class refers to the object of child class, it is known as upcasting.
+
+For example.
+
+refrence variable of parent class>>>>>object of child class
+
+class A{
+
+}
+
+class B extends A{}
+
+A a = new B () //Upcasting
