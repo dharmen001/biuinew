@@ -33,3 +33,34 @@ class A{
 class B extends A{}
 
 A a = new B () //Upcasting
+
+Java Runtime Polymorphism with Data Member
+
+Method is overridden not the datamembers, so runtime polymorphism can't be achieved by data members.
+In the example given below, both the classes have a datamember speedlimit,
+we are accessing the datamember by the reference variable of Parent class which refers to the subclass object.
+Since we are accessing the datamember which is not overridden, hence it will access the datamember of Parent class always.
+
+
+class Bike ;
+{
+int speedlimit = 90;
+}
+
+class Honda extends Bike
+{
+int speedlimit = 150;
+
+public static void main(String [] args){
+
+Bike obj = new Honda();
+
+System.out.println(obj.speedlimit);
+
+}
+
+90//Output
+
+In runtime polymorphism base class method is invoked at the time of object creation in case if it
+is multiplevel inheritance.
+
