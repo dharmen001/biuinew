@@ -1,0 +1,39 @@
+A class that is declared with abstract keyword, is known as abstract class in java, it can have abstract and non-abstract methods(method with body).
+
+Abstraction in java
+
+Abstraction is a process of hiding the implementation details and showing only functionality to the user.
+
+it shows only important things to the user and hides the internal details for example sending sms, you just type the text and send the message.
+
+don't know the internal processing about the message delivery.
+
+Abstraction lets you focus on what the object does instead of how it does it.
+
+1. abstract class(0to 100%)
+2. Interface(100%)
+
+Abstract class in Java:
+
+A class that is declared as abstract is known as abstract class. it needs to be extended and its method implemented. it cannot be instantiated.
+
+Abstract class{}A
+
+Abstract method
+
+A method that is declared as abstract and does not have implementation is known as abstract method.
+
+Example abstract method:
+
+Abstract void printStatus()// no body and abstract
+
+Understanding the real scenario of abstract class
+
+In this example, Shape is the abstract class, its implementation is provided by the rectangle and circle class. Mostly we don't know about the implentation
+class(i.e hidden to the end user) and object of the implementation class is provided by the factory method.
+
+A factory method is the method that returns the instance of the class.
+
+
+
+
